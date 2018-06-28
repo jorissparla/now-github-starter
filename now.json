@@ -1,0 +1,6 @@
+{
+  "env": {
+    "NOW_NPM_TOKEN": "@npm-token"
+  },
+  "alias": "zeit.sparla.io"
+}
